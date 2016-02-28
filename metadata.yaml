@@ -1,0 +1,21 @@
+_repo: The-Development-of-Religious-Liberty-in-Connecticut_7436
+creator:
+  author:
+    agent_name: Greene, M. Louise (Maria Louise)
+    alias: Greene, Maria Louise
+    gutenberg_agent_id: '2467'
+    url: http://www.gutenberg.org/2009/agents/2467
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Connecticut -- Church history'
+title: The Development of Religious Liberty in Connecticut
+url: http://www.gutenberg.org/ebooks/7436
